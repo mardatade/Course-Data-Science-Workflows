@@ -1,2 +1,2 @@
-# course_data-science-workflows
+# Course: Data Science Workflows
 Course materials on "Data Science Workflows"
