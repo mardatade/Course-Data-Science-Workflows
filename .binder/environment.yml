@@ -1,0 +1,20 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - matplotlib
+  - git
+  - git-lfs
+  - hvplot
+  - holoviews
+  - bokeh
+  - netCDF4
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - scipy
+  - tensorflow
+  - xarray
+  - zarr
