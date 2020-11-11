@@ -8,13 +8,11 @@ dependencies:
   - git-lfs
   - hvplot
   - holoviews
-  - bokeh
   - netCDF4
   - numpy
   - pandas
   - pip
-  - scikit-learn
+  - rpy2
   - scipy
-  - tensorflow
   - xarray
   - zarr
