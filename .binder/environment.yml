@@ -16,3 +16,19 @@ dependencies:
   - scipy
   - xarray
   - zarr
+  - r-base=3.6
+  - r-triebeard
+  - r-stringi
+  - r-curl
+  - r-urltools
+  - r-httpcode
+  - r-rplyr
+  - r-stringr
+  - r-pkgconfig
+  - r-rappdirs
+  - r-crul
+  - r-xml2
+  - r-oai
+  - r-tibble
+  - r-hoardr
+  - r-png
