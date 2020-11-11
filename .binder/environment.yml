@@ -16,6 +16,8 @@ dependencies:
   - scipy
   - xarray
   - zarr
+  - pip:
+    - pangaeapy
   - r-base=3.6
   - r-triebeard
   - r-stringi
