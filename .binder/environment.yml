@@ -22,7 +22,7 @@ dependencies:
   - r-curl
   - r-urltools
   - r-httpcode
-  - r-rplyr
+  - r-plyr
   - r-stringr
   - r-pkgconfig
   - r-rappdirs
