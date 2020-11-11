@@ -1,1 +1,1 @@
-install.packages(c(‘triebeard’, ‘stringi’, ‘curl’, ‘urltools’, ‘httpcode’, ‘plyr’, ‘stringr’, ‘pkgconfig’, ‘rappdirs’, ‘crul’, ‘xml2’, ‘oai’, ‘tibble’, ‘hoardr’, ‘png’))
+install.packages(c("triebeard", "stringi", "curl", "urltools", "httpcode", "plyr", "stringr", "pkgconfig", "rappdirs", "crul", "xml2", "oai", "tibble", "hoardr", "png"))
